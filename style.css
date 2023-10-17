@@ -1,0 +1,13 @@
+*{
+    padding: 20px;
+    border: 10px;
+    margin-left: 50px;
+    margin-right: 70px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    border-color:solid blue 5px;
+    box-sizing: border-box;
+    color:blue;
+    background-color: yellow;
+    
+}
